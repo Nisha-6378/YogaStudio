@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.camera:camera-core:1.0.0-SNAPSHOT@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/2aece73c54b01e31dfa92c2444334dd9/jetified-camera-core-1.0.0-SNAPSHOT/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/2aece73c54b01e31dfa92c2444334dd9/jetified-camera-core-1.0.0-SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/2aece73c54b01e31dfa92c2444334dd9/jetified-camera-core-1.0.0-SNAPSHOT/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/transforms-2/files-2.1/2aece73c54b01e31dfa92c2444334dd9/jetified-camera-core-1.0.0-SNAPSHOT/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/pose_estimation_android_app-main(2)/pose_estimation_android_app-main/android/caches/modules-2/files-2.1/androidx.camera/camera-core/1.0.0-SNAPSHOT/c463e5cc6b794fb9c583b932aa62eb3c2417ecbb/camera-core-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
